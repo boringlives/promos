@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"7+5s":function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return i}));var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),c=n("vrFN"),u=n("84ds"),s=n("JfNc");function i(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Styles"}),l.a.createElement(s.b,null,l.a.createElement(u.a,{type:"ages"})))}}}]);
+//# sourceMappingURL=component---src-pages-ages-js-381e8e7f31e613ca50ea.js.map

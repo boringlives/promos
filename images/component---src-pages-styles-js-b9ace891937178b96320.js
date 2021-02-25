@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{Pbiz:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return u}));var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),c=n("vrFN"),i=n("84ds"),s=n("JfNc");function u(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Styles"}),l.a.createElement(s.b,null,l.a.createElement(i.a,{type:"styles",headline:"We Offer a Variety of Styles"})))}}}]);
+//# sourceMappingURL=component---src-pages-styles-js-b9ace891937178b96320.js.map
